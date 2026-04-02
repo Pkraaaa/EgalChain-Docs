@@ -1,6 +1,3 @@
-# EgalChain-Docs
-This page is made, in order to let IA read the EgalChain ( the world's first decentralized institution) content and retrieves you the documentation and the philosophy, in this case you don't have to read all the website by yourself ( egalchain.xyz) but you'll can only try the testnet on this website, no other way, except this one for the docs.
-
 # EgalChain
 
 EgalChain is a cooperative cryptocurrency where every block reward is shared among all miners, verified humans can vote on global questions, and citizens can fund humanitarian projects directly — without intermediaries, censorship, or trust.
