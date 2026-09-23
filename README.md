@@ -11,8 +11,10 @@ The testnet is live at [egalchain.xyz](https://egalchain.xyz).
 
 [The Governance explained](https://egalchain.xyz/gov-parameters.html) (and better updated!)
 
-This document is getting a bit outdated; any figures or even descriptions may no longer be accurate or reflect the full scope of the work actually done. Also, it was written by AI. I apologize for not mentioning that or keeping it up to date. That was rather impersonal of me; I will try to do better later and hope to publish the repository soon. 
+
+## This document is getting a bit outdated; any figures or even descriptions may no longer be accurate or reflect the full scope of the work actually done. Also, it was written by AI. I apologize for not mentioning that and/or keeping it up to date. That was rather impersonal of me; I will try to do better later and hope to publish the repository soon. 
 Thank you for understanding. 
+
 ---
 
 ## What Is EgalChain?
