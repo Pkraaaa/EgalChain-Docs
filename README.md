@@ -3,8 +3,13 @@
 EgalChain is a cooperative cryptocurrency where every block reward is shared among all miners, verified humans can vote on global questions, and citizens can fund humanitarian projects directly — without intermediaries, censorship, or trust. To serve as the rails for a new way of coexisting and institutionalizing our humanity.
 
 The testnet is live at [egalchain.xyz](https://egalchain.xyz).  
-P2P loan, ALpha, simulator at [egalchain.xyz](https://egalchain.xyz/p2p-test-escrow.html) 
-The Governance explained (and well updated!): [egalchain.xyz](https://egalchain.xyz/gov-parameters.html)
+
+
+[P2P loan, ALpha, simulator](https://egalchain.xyz/p2p-test-escrow.html) 
+
+
+
+[The Governance explained](https://egalchain.xyz/gov-parameters.html) (and better updated!)
 
 This document is getting a bit outdated; any figures or even descriptions may no longer be accurate or reflect the full scope of the work actually done. Also, it was written by AI. I apologize for not mentioning that or keeping it up to date. That was rather impersonal of me; I will try to do better later and hope to publish the repository soon. 
 Thank you for understanding. 
